@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Languages learnt;
 
-![CSS3](https://img.shields.io/badge/css-%3231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![visual studio](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brandlogovector.com/visual-studio-code-logo-vector/&ved=2ahUKEwia956GtuyJAxUj2gIHHcRIOYwQh-wKegUIhQEQAg&usg=AOvVaw13lOuOFUs1WHdcVS55bEQF)
+![CSS3](https://img.shields.io/badge/css-%3231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Social Media Platforms;
 
