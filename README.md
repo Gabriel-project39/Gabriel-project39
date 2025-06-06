@@ -21,8 +21,8 @@ Social Media Platforms;
 
 ![Stars](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-![Obiero's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevvObiero&show_icons=true&theme=radical)
-![DevvObiero's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevvObiero&theme=dracula&hide_border=true)
+![Gabriel-project GitHub stats](https://github-readme-stats.vercel.app/api?username=DevvObiero&show_icons=true&theme=radical)
+![Gabriel-project Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevvObiero&theme=dracula&hide_border=true)
 
 
 ![Stars](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
