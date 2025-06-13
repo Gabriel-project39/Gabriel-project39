@@ -21,12 +21,6 @@ Social Media Platforms;
 
 ![Stars](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-# 👋 Hi, I'm Gabriel
-
-Welcome to my GitHub profile!
-
----
-
 ## 📊 My GitHub Stats
 
 <!-- GitHub Stats -->
@@ -40,22 +34,5 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🚀 Current Stats Overview
-
-- 🔥 **Current Streak**: Check the streak graph above.
-- 📅 **Total Contributions**: Automatically updated.
-- 📍 **Most Active Dates**: See heatmap on GitHub profile.
-
----
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/)
-
----
-
-_Styled with 💖 using GitHub Readme Stats_
 
 
