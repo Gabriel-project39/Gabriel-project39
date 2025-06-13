@@ -17,16 +17,6 @@ Social Media Platforms;
 
  GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Gabriel-project39&theme=dark&cache_seconds=1border=false&include_all_commits=false&count_private=false)<br/>
-
-![Stars](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 📊 My GitHub Stats
-
-<!-- GitHub Stats -->
-
-![Grade B+](https://img.shields.io/badge/GitHub%20Grade-B%2B-purple?style=for-the-badge&logo=github)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-project39&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-project39&theme=radical)
