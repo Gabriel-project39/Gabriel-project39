@@ -24,6 +24,13 @@ Social Media Platforms;
 ## 📊 My GitHub Stats
 
 <!-- GitHub Stats -->
+
+![Grade B+](https://img.shields.io/badge/GitHub%20Grade-B%2B-purple?style=for-the-badge&logo=github)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-project39&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-project39&theme=radical)
+
 ![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-project39&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
 <!-- GitHub Streak -->
