@@ -22,10 +22,6 @@ Social Media Platforms;
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-project39&theme=radical)
 
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Gabriel-project39&color=blueviolet)
-
-
 <!-- GitHub Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-project39&layout=compact&theme=radical)
 
