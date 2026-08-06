@@ -25,6 +25,13 @@ Social Media Platforms;
 <!-- GitHub Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-project39&layout=compact&theme=radical)
 
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-project39&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-project39&theme=radical)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-project39&layout=compact&theme=radical)
+
 ---
 
 
