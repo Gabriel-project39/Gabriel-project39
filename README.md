@@ -30,7 +30,5 @@ Social Media Platforms;
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-project39&layout=compact&theme=radical)
 
----
-
 
 
