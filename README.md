@@ -16,15 +16,9 @@ Social Media Platforms;
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gab) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gab) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gab) 
 
- GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-project39&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-project39&theme=radical)
 
 <!-- GitHub Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-project39&layout=compact&theme=radical)
-
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-project39&show_icons=true&theme=radical)
 
