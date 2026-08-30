@@ -20,7 +20,7 @@ Social Media Platforms;
 
 <!-- GitHub Top Languages -->
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-project39&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gabriel-project39?cardType=level&theme=radical&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-project39&theme=radical)
 
