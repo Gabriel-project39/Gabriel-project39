@@ -24,7 +24,7 @@ Social Media Platforms;
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-project39&theme=radical)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-project39&layout=compact&theme=radical)
+
 
 
 
